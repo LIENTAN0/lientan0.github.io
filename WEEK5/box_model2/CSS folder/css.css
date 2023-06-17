@@ -1,0 +1,28 @@
+div#one {
+    background-image: url(cssimg/back.jpg);
+    margin: 20px;
+    border: 20px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(141, 144, 255);
+}
+
+p {
+    font-size: 40px;
+    color: rgb(124, 124, 255);
+}
+
+p#giao {
+    color: black;
+}
+
+div#two {
+    background-image: url(cssimg/two.png);
+    background-size: 20px;
+    margin: 200px;
+    border: 200px;
+    padding: 200px;
+}
